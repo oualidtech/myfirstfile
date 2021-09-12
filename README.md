@@ -1,2 +1,2 @@
 # myfirstfile
-exercice1
+Test repository 
